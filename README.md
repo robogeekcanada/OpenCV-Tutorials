@@ -9,5 +9,5 @@ Tutorials are not in any particular order:
 2. Homography Demo - Star Wars Intro
 3. Image Rotation and Translation
 
-If you have questions, please reach us at osilva@robogeekcanada.com
+If you have questions, please reach me at osilva@robogeekcanada.com
 
